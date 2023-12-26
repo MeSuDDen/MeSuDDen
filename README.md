@@ -26,6 +26,7 @@
 💻 &nbsp;**Используемые технологии:**
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" />
+	<img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron,vite,vscode" />
 </p>
+
 ---
