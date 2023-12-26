@@ -27,8 +27,11 @@
 
 <div>
 [![Используемые технологии:](https://skillicons.dev/icons?i=js,html,css,wasm)]
-  <img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" title="Skills" alt="Skills" width="30" height="30"/>&nbsp;
-	[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron)](https://skillicons.dev)
+	<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" />
+  </a>
+</p>
 </div>
 
 ---
