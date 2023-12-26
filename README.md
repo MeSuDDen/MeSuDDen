@@ -26,7 +26,7 @@
 💻 &nbsp;**Используемые технологии:**
 
 <div>
-[![💻**Используемые технологии:**](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![Используемые технологии:](https://skillicons.dev/icons?i=js,html,css,wasm)]
   <img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" title="Skills" alt="Skills" width="30" height="30"/>&nbsp;
 
 <img src="https://skillicons.dev/icons?i=js" title="photoshop" alt="photoshop" width="30" height="30" style="border-radius: 100%"/>&nbsp;
