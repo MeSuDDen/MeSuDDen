@@ -28,22 +28,6 @@
 <div>
 [![Используемые технологии:](https://skillicons.dev/icons?i=js,html,css,wasm)]
   <img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" title="Skills" alt="Skills" width="30" height="30"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=js" title="photoshop" alt="photoshop" width="30" height="30" style="border-radius: 100%"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" title="git" alt="git" width="30" height="30"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=html" title="html5" alt="html5" width="30" height="30"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css" title="css" alt="css" width="30" height="30"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width=30" height="30"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=js" title="sass/scss" alt="sass/scss" width=30" height="30"/>&nbsp;
-
 </div>
 
 ---
