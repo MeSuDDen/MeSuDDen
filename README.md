@@ -25,13 +25,7 @@
 
 💻 &nbsp;**Используемые технологии:**
 
-<div>
-[![Используемые технологии:](https://skillicons.dev/icons?i=js,html,css,wasm)]
-	<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" />
-  </a>
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=figma,js,html,css,tailwind,sass,react,pr,ps,php,nodejs,mysql,github,electron" />
 </p>
-</div>
-
 ---
