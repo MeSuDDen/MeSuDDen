@@ -11,6 +11,17 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+🔗 &nbsp;**Связаться со мной**
+
+<p align="left">
+
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="linkedin" height="30" width="40" /></a>
+<a href="https://t.me/SuDDen322" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="40" /></a>
+<a href="https://vk.com/earcader" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+</p>
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
